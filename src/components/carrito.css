@@ -1,0 +1,11 @@
+.carrito {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 400px;
+}
+.lista {
+    margin: 1em;
+    padding: 1em;
+    color: blue;
+}
